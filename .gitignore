@@ -20,3 +20,6 @@ ipython_config.py
 
 # Excluding the raw data
 raw_data.csv
+
+# Excluding pandas profiling
+output.html
